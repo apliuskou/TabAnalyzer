@@ -8,7 +8,7 @@ namespace TabAnalysis
 {
     public class Payment
     {
-        
+        //PUBLIC?
             public int Id { get; set; }
             public Banks Bank { get; set; }
             public decimal Money { get; set; }
