@@ -1,0 +1,6 @@
+C:\GitHub\TabAnalysis\TabAnalysis\bin\Debug\TabAnalysis.exe.config
+C:\GitHub\TabAnalysis\TabAnalysis\obj\Debug\TabAnalysis.csprojResolveAssemblyReference.cache
+C:\GitHub\TabAnalysis\TabAnalysis\bin\Debug\TabAnalysis.exe
+C:\GitHub\TabAnalysis\TabAnalysis\bin\Debug\TabAnalysis.pdb
+C:\GitHub\TabAnalysis\TabAnalysis\obj\Debug\TabAnalysis.exe
+C:\GitHub\TabAnalysis\TabAnalysis\obj\Debug\TabAnalysis.pdb
